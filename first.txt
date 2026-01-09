@@ -1,4 +1,3 @@
 First message
-
-:wq
+Another message
 
